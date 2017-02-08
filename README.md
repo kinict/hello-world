@@ -1,2 +1,2 @@
 # hello-world
-First repository test
+Whoop whoop, buckle up and here we go!
